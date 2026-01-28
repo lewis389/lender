@@ -24,8 +24,8 @@ contract InterestRateModel {
 
     constructor(
         uint256 _baseVariableBorrowRate,
-        uint256 _slope1,
-        uint256 _slope2,
+        uint256 _slope3,
+        uint256 _slope4,
         uint256 _optimalUtilization
     ) {
         require(_optimalUtilization <= RAY, "INVALID_OPTIMAL_UTILIZATION");
