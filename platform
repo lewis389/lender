@@ -1,0 +1,22 @@
+{
+  "name": "base-aave-style-lending",
+  "version": "1.0.0",
+  "description": "Minimal Aave-style overcollateralized lending protocol, deployable to Base (EVM).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\"",
+    "lint": "echo \"No linter configured\""
+  },
+  "keywords": [
+    "defi",
+    "lending",
+    "aave",
+    "base",
+    "evm",
+    "solidity"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
